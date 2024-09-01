@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003287963583",
+    "project_id": "sirketicihaberlesme",
+    "storage_bucket": "sirketicihaberlesme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003287963583:android:1085b298e71e4f7b44e30a",
+        "android_client_info": {
+          "package_name": "com.ofisiciapp.ofisiciapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQEzY3LprVgu02SmoTdwhCEsjbSGJdRX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
